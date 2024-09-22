@@ -5,10 +5,11 @@
 
 Hi, I'm Aditya.<br>
 
-I'm a software dev by day, and a... well, still a software dev by night
-you can find me obsessing over anything that i seem to hyper-fixate on.<br>
+I'm a software dev by day, and a... well, still a software dev by night.<br>
+You can find me obsessing over getting some weird idea that i seem to be hyper-fixated on to work.<br>
 <br>Currently i'm trying to build a real-time traffic analyzer by learning about networking.
 <br>I'm always on the lookout for interesting idea, projects or concepts that i can dip my hands into.
+
 <br>When I'm not at my keyboard you can find me devouring manga or scouring pc builds on reddit on my downtime, or i'll be outside exploring new trekking trails
 
 ## 🏆 GitHub Trophies
