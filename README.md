@@ -5,9 +5,9 @@
 
 Hi, I'm Aditya.<br>
 
-I'm a software dev by day, and a... well, still a software dev by night.<br>
-You can find me obsessing over getting some weird idea that i seem to be hyper-fixated on to work.<br>
-<br>Currently building a real-time traffic logger and analyzer by learning about networking.
+I'm a software dev based out of bangalore.<br>
+I enjoy coming up with solutions for snags and bugs in complicated systems. You can find me obsessing over getting new ideas and figuring out what makes things tick.<br>
+<br>Currently working on making automated systems for larger workflows.
 <br>I'm always on the lookout for interesting idea, projects or concepts that i can dip my hands into.
 
 <br>When I'm not at my keyboard you can find me devouring manga or scouring pc builds on reddit on my downtime, or i'll be outside exploring new trekking trails
