@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 <div align="center">
-  <img src="./res/BongoCatTypingGIF.gif" alt="BongoCatTypingGIF" width="200" />
+  <img src="./res/BongoCatTypingGIF.gif" alt="BongoCatTypingGIF" width="50" />
 </div>
 
 Hi, I'm Aditya.<br>
