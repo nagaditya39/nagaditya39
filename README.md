@@ -1,6 +1,6 @@
 # About Me:
 <div align="center">
-  <img src="./res/BongoCatTypingGIF.gif" alt="BongoCatTypingGIF" width="50" />
+  <img src="./res/BongoCatTypingGIF.gif" alt="BongoCatTypingGIF" width="50" align=left />
 </div>
 
 Hi, I'm Aditya.<br>
