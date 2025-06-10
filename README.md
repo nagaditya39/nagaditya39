@@ -15,12 +15,8 @@ Some of my more interesting builds are:
 
 <br> You can contact me on (nagaditya39@gmail.com) for queries and such.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagaditya39&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nagaditya39&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagaditya39&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaditya39&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
