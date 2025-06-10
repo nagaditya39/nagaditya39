@@ -2,10 +2,18 @@ Hi, I'm Aditya.<br>
 
 I'm a software dev based out of bangalore.<br>
 I enjoy coming up with solutions for snags and bugs in complicated systems. You can find me obsessing over getting new ideas and figuring out what makes things tick.<br>
-<br>I've worked across different domains and techstacks, some of my more interesting builds are a distributed automated systems on a large scale, a network monitoring and analysis systems and a full stack image upscaling application using a custom build GAN model engine.
+<br>I've worked across different domains and techstacks.<br>
+Some of my more interesting builds are:
+<ul>
+  <li>a distributed automated systems on a large scale</li>
+  <li>a network monitoring and analysis systems </li>
+  <li>a full stack image upscaling application using a custom build GAN model engine.</li>
+</ul>
 <br>I'm always on the lookout for interesting idea, projects or concepts that i can dip my hands into.
 
-<br>I enjoy reading manga and trekking on my downtime
+<br>I enjoy reading manga and trekking on my downtime.
+
+<br> You can contact me on (nagaditya39@gmail.com) for queries and such.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nagaditya39&theme=radical&no-frame=false&no-bg=true&margin-w=4)
