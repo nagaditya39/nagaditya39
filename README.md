@@ -5,7 +5,7 @@ I enjoy coming up with solutions for snags and bugs in complicated systems. You 
 <br>I've worked across different domains and techstacks.<br>
 Some of my more interesting builds are:
 <ul>
-  <li>a distributed automated systems on a large scale</li>
+  <li>a distributed automated system for a large scale work role</li>
   <li>a network monitoring and analysis systems </li>
   <li>a full stack image upscaling application using a custom build GAN model engine.</li>
 </ul>
