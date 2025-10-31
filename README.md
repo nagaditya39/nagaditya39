@@ -7,12 +7,3 @@ I enjoy coming up with solutions for snags and bugs in complicated systems. You 
 
 
 <br> You can contact me on (nagaditya39@gmail.com) for queries and such.
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaditya39&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=nagaditya39&icon=1&color=12)](https://visitcount.itsvg.in)
