@@ -1,9 +1,8 @@
-Hi, I'm Aditya.<br>
+Software dev based out of bangalore.<br>
+I've worked in enterprises mostly around rapid prototyping, building POC's that can scale. <br>
 
-I'm a software dev based out of bangalore.<br>
-I enjoy coming up with solutions for snags and bugs in complicated systems. You can find me obsessing over getting new ideas and figuring out what makes things tick.<br>
-<br>I've worked across different domains and techstacks.<br>
-<br>I'm always on the lookout for interesting idea, projects or concepts that i can dip my hands into.
+My tech stack has revolved primarily around python and python-based frameworks; but i tend to pick up languages as and when needed basis of application need. <br>
+My current stack is Angular + .Net, building on a microservice framework. <br>
 
 
-<br> You can contact me on (nagaditya39@gmail.com) for queries and such.
+<br> I can be reached at (nagaditya39@gmail.com) for queries and such.
